@@ -1,1 +1,1 @@
-# creditcard-reviews
+# CCCR - Concise Credit Card Reviews
