@@ -6,16 +6,21 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["discover", "student"]
 keywords = ["", ""]
-description = ""
+description = "A decent student card for building credit."
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+summary = ""
 +++
 
 **Recommended Credit Score: N/A for student ver. OR 690 ~ 850 (Good - Excellent)**
 
+---
+
 **Annual Fee: $0**
+
+---
 
 ## Benefits:
 - 1% Unlimited general cash back on all categories.
