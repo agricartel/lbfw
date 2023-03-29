@@ -82,7 +82,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Concise Credit Card Reviews"
-      logoHomeLink = "/"
+      logoHomeLink = "/cccr"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
