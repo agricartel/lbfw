@@ -13,14 +13,16 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-### Recommended Credit Score: N/A for student ver. OR 690 ~ 850 (Good - Excellent)
-### Annual Fee: $0
+**Recommended Credit Score: N/A for student ver. OR 690 ~ 850 (Good - Excellent)**
+
+**Annual Fee: $0**
+
 ## Benefits:
 - 1% Unlimited general cash back on all categories.
 - 5% cash back on quarterly rotating categories for up to $75 cash back (Equivalent to spending $1,500 in that category for that quarter to maximize value)
 - 100% Cashback match after your first year (If you earn $200 Cashback in your first year, on your anniversary you receive an additional $200).
 
-### Personal Recommendation: Conditionally Valuable for students with no credit history
+**Personal Recommendation: Conditionally Valuable for students with no credit history**
 
 ## Summary:
 The Discover IT Card is interesting. It was my first card as I had no credit history and wanted to build credit. However, it's usefulness is often cut short for 4 reasons:
