@@ -1,3 +1,4 @@
+sectionPagesMenu = 'main'
 baseurl = "https://agricartel.com/cccr"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
@@ -5,13 +6,21 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+[menu]
+
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 20
+
+
 [params]
   # Site Name
   sitename = "agricartel"
 
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  #contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
