@@ -1,9 +1,32 @@
-baseurl = "https://agricartel.com/cccr"
+sectionPagesMenu = 'main'
+baseurl = "https://agricartel.com/lbfw"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
 paginate = 5
+
+[menu]
+
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 20
+
+  [[menu.main]]
+    identifier = "Stock Market"
+    name = "Stock Market"
+    url = "/stonks"
+
+  [[menu.main]]
+    identifier = "Concise Credit Card Reviews"
+    name = "Concise Credit Card Reviews"
+    url = "/cccr"
+
+  [[menu.main]]
+    identifier = "fixed income"
+    name = "Fixed Income"
+    url = "/fixed-income"  
 
 [params]
   # Site Name
@@ -11,7 +34,7 @@ paginate = 5
 
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  #contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
@@ -68,8 +91,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "cccr"
-    subtitle = "Concise Credit Card Reviews"
+    title = "lbfw"
+    subtitle = "Luigi Ballin Financial Wikipedia"
     owner = ""
     keywords = ""
     copyright = ""
@@ -84,18 +107,17 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Concise Credit Card Reviews"
-      logoHomeLink = "/cccr"
+      logoText = "Luigi Ballin Financial Wikipedia"
+      logoHomeLink = "/lbfw"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+
+
+
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
