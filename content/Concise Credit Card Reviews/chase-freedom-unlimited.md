@@ -1,4 +1,5 @@
 +++
+menu = "Concise Credit Card Reviews"
 title = "Chase Freedom Unlimited"
 date = "2023-03-29T15:27:08-04:00"
 author = "elai-zen"

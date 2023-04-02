@@ -1,5 +1,5 @@
 +++
-menu = 'main'
+menu = 'fixed income'
 title = 'Savings Accounts'
 description = 'Under the topic of fixed income, FDIC Insured Savings Accounts'
 date = '2023-03-22'

@@ -1,5 +1,5 @@
 +++
-menu = 'main'
+menu = 'fixed income'
 title = 'Treasury Bills'
 description = 'Under the topic of fixed income, buy US Government Debt'
 date = '2023-03-22'

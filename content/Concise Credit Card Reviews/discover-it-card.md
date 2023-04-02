@@ -1,4 +1,5 @@
 +++
+menu = "Concise Credit Card Reviews"
 title = "Discover IT Card"
 date = "2023-03-29T14:54:03-04:00"
 author = "elai-zen"
